@@ -10,7 +10,6 @@
   <div id="map-page">
 
     <div class="map-col-lt">
-      <p class="map-sample">Do you need an <a href="https://www.wpmapplugins.com/interactive-world-map-by-countries-wordpress-plugin.html">Interactive World Map by Countries</a>?</p>
       <div id="map-preview">
         <?php include 'map.php'; ?>
       </div>
@@ -35,6 +34,7 @@
           </div>
         </div><!-- box-body -->
       </div><!-- map-settings -->
+      <p class="map-sample">Do you need an <a href="https://www.wpmapplugins.com/interactive-world-map-by-countries-wordpress-plugin.html">Interactive World Map by Countries</a>?</p>
     </div><!-- map-col-rt -->
 
   </div><!-- map-page -->

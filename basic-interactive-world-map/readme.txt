@@ -3,7 +3,7 @@ Contributors: WP Map Plugins
 Donate link: https://www.wpmapplugins.com/
 Tags: world map, world maps, interactive world map, clickable world map, world map template, global map, interactive global map, clickable continent map, interactive map plugins, custom world map, countries continent world map, interactive world mapping
 Requires at least: 3.4
-Tested up to: 6.6.1
+Tested up to: 6.8
 Stable tag: 2.7
 License: GPLv2 or later
 
